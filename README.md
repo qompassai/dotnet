@@ -6,7 +6,7 @@
 
 <h3> Qompass AI on DotNET</h3>
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-dotnet)
-
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/dotnet/total?style=flat-square)
  <a href="https://dotnet.microsoft.com/">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
 </a>
