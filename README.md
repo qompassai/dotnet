@@ -1,3 +1,4 @@
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
 <!-- /qompassai/dotnet/README.md -->
 <!-- ---------------------------- -->
 <!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
